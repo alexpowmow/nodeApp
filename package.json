@@ -1,0 +1,22 @@
+{
+  "name": "nodeapp",
+  "version": "0.1.0",
+  "description": "My first nodeApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "watch": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexpowmow/nodeApp.git"
+  },
+  "author": "Alex D'Alessandro",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/alexpowmow/nodeApp/issues"
+  },
+  "homepage": "https://github.com/alexpowmow/nodeApp#readme"
+}
+
